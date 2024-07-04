@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate in web dev projects
 - 💬 Ask me About Web development and Web Technolgies.
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ajinkyakothe@gmail.com)](mailto:ajinkyakothe@gmail.com)
-- ⚡ Fun fact: I love to write on various things..
+- ⚡ Fun fact I am funny😅
 - Profile views: ![](https://komarev.com/ghpvc/?username=ajinkyakothe)
 
 <br>
